@@ -1,0 +1,5 @@
+.pytest*
+automation.log
+geckodriver.log
+.idea
+*.pyc
